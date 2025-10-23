@@ -2,8 +2,18 @@
 
 ## 説明
 
-プルリクエストテンプレートを選択してください。
+このプルリクエストの内容を説明してください。
 
-FE： [frontend.md](?expand=1&template=frontend.md)
+## 関連するイシュー
 
-BE： [backend.md](?expand=1&template=backend.md)
+Fixes #（issue 番号）
+
+## 変更の種類
+
+- [ ] バグ修正
+- [ ] 新機能
+- [ ] その他
+
+## テスト方法
+
+どのようにテストしましたか？
